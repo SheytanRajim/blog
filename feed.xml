@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Sheytan</title>
+    <title>شیطان رجیم</title>
     <link href="https://sheytan.eu.org/feed.xml" rel="self" />
     <link href="https://sheytan.eu.org" />
     <updated>2023-05-25T21:42:56-07:00</updated>
     <author>
-        <name>Sheytan Rajim</name>
+        <name>شیطان رجیم</name>
     </author>
     <id>https://sheytan.eu.org</id>
 
     <entry>
         <title>سلام دنیا</title>
         <author>
-            <name>Sheytan Rajim</name>
+            <name>شیطان رجیم</name>
         </author>
         <link href="https://sheytan.eu.org/hello-world.html"/>
         <id>https://sheytan.eu.org/hello-world.html</id>
