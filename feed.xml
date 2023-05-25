@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Sheytan</title>
-    <link href="https://sheytanrajim.github.io/blog/feed.xml" rel="self" />
-    <link href="https://sheytanrajim.github.io/blog" />
+    <link href="https://sheytan.eu.org/feed.xml" rel="self" />
+    <link href="https://sheytan.eu.org" />
     <updated>2023-05-25T21:42:56-07:00</updated>
     <author>
         <name>Sheytan Rajim</name>
     </author>
-    <id>https://sheytanrajim.github.io/blog</id>
+    <id>https://sheytan.eu.org</id>
 
     <entry>
         <title>سلام دنیا</title>
         <author>
             <name>Sheytan Rajim</name>
         </author>
-        <link href="https://sheytanrajim.github.io/blog/hello-world.html"/>
-        <id>https://sheytanrajim.github.io/blog/hello-world.html</id>
+        <link href="https://sheytan.eu.org/hello-world.html"/>
+        <id>https://sheytan.eu.org/hello-world.html</id>
             <category term="شیطان"/>
             <category term="جهنم"/>
 
@@ -33,7 +33,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://sheytanrajim.github.io/blog/media/posts/1/Screenshot-2023-05-24-202505.png" height="49" width="187" alt="دمای 41 درجه‌ای جهنم"  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-xs.png 300w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-sm.png 480w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-md.png 768w">
+      <img loading="lazy" src="https://sheytan.eu.org/media/posts/1/Screenshot-2023-05-24-202505.png" height="49" width="187" alt="دمای 41 درجه‌ای جهنم"  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://sheytan.eu.org/media/posts/1/responsive/Screenshot-2023-05-24-202505-xs.png 300w ,https://sheytan.eu.org/media/posts/1/responsive/Screenshot-2023-05-24-202505-sm.png 480w ,https://sheytan.eu.org/media/posts/1/responsive/Screenshot-2023-05-24-202505-md.png 768w">
       <figcaption>جهنم</figcaption>
     </figure>
 

@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sheytan",
     "description": "",
-    "home_page_url": "https://sheytanrajim.github.io/blog",
-    "feed_url": "https://sheytanrajim.github.io/blog/feed.json",
+    "home_page_url": "https://sheytan.eu.org",
+    "feed_url": "https://sheytan.eu.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sheytan Rajim"
     },
     "items": [
         {
-            "id": "https://sheytanrajim.github.io/blog/hello-world.html",
-            "url": "https://sheytanrajim.github.io/blog/hello-world.html",
+            "id": "https://sheytan.eu.org/hello-world.html",
+            "url": "https://sheytan.eu.org/hello-world.html",
             "title": "سلام دنیا",
             "summary": "من شیطانم و سلام بر شما بندگان گمراه باری تعالی",
-            "content_html": "\n  <p>\n    من شیطانم و سلام بر شما بندگان گمراه باری تعالی\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://sheytanrajim.github.io/blog/media/posts/1/Screenshot-2023-05-24-202505.png\" height=\"49\" width=\"187\" alt=\"دمای 41 درجه‌ای جهنم\"  sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-xs.png 300w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-sm.png 480w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-md.png 768w\">\n      <figcaption>جهنم</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p>\n    من شیطانم و سلام بر شما بندگان گمراه باری تعالی\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://sheytan.eu.org/media/posts/1/Screenshot-2023-05-24-202505.png\" height=\"49\" width=\"187\" alt=\"دمای 41 درجه‌ای جهنم\"  sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://sheytan.eu.org/media/posts/1/responsive/Screenshot-2023-05-24-202505-xs.png 300w ,https://sheytan.eu.org/media/posts/1/responsive/Screenshot-2023-05-24-202505-sm.png 480w ,https://sheytan.eu.org/media/posts/1/responsive/Screenshot-2023-05-24-202505-md.png 768w\">\n      <figcaption>جهنم</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Sheytan Rajim"
             },
