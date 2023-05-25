@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sheytanrajim.github.io/blog/sitemap.xml

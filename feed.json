@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sheytan",
+    "description": "",
+    "home_page_url": "https://sheytanrajim.github.io/blog",
+    "feed_url": "https://sheytanrajim.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sheytan Rajim"
+    },
+    "items": [
+        {
+            "id": "https://sheytanrajim.github.io/blog/hello-world.html",
+            "url": "https://sheytanrajim.github.io/blog/hello-world.html",
+            "title": "سلام دنیا",
+            "summary": "من شیطانم و سلام بر شما بندگان گمراه باری تعالی",
+            "content_html": "\n  <p>\n    من شیطانم و سلام بر شما بندگان گمراه باری تعالی\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://sheytanrajim.github.io/blog/media/posts/1/Screenshot-2023-05-24-202505.png\" height=\"49\" width=\"187\" alt=\"دمای 41 درجه‌ای جهنم\"  sizes=\"100vw\" srcset=\"https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-xs.png 300w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-sm.png 480w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-md.png 768w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-lg.png 1024w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-xl.png 1360w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-2xl.png 1600w\">\n      <figcaption>جهنم</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Sheytan Rajim"
+            },
+            "tags": [
+                   "شیطان",
+                   "جهنم"
+            ],
+            "date_published": "2023-05-25T21:42:56-07:00",
+            "date_modified": "2023-05-25T21:42:56-07:00"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sheytan</title>
+    <link href="https://sheytanrajim.github.io/blog/feed.xml" rel="self" />
+    <link href="https://sheytanrajim.github.io/blog" />
+    <updated>2023-05-25T21:42:56-07:00</updated>
+    <author>
+        <name>Sheytan Rajim</name>
+    </author>
+    <id>https://sheytanrajim.github.io/blog</id>
+
+    <entry>
+        <title>سلام دنیا</title>
+        <author>
+            <name>Sheytan Rajim</name>
+        </author>
+        <link href="https://sheytanrajim.github.io/blog/hello-world.html"/>
+        <id>https://sheytanrajim.github.io/blog/hello-world.html</id>
+            <category term="شیطان"/>
+            <category term="جهنم"/>
+
+        <updated>2023-05-25T21:42:56-07:00</updated>
+            <summary>
+                <![CDATA[
+                    من شیطانم و سلام بر شما بندگان گمراه باری تعالی
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    من شیطانم و سلام بر شما بندگان گمراه باری تعالی
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://sheytanrajim.github.io/blog/media/posts/1/Screenshot-2023-05-24-202505.png" height="49" width="187" alt="دمای 41 درجه‌ای جهنم"  sizes="100vw" srcset="https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-xs.png 300w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-sm.png 480w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-md.png 768w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-lg.png 1024w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-xl.png 1360w ,https://sheytanrajim.github.io/blog/media/posts/1/responsive/Screenshot-2023-05-24-202505-2xl.png 1600w">
+      <figcaption>جهنم</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
